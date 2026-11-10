@@ -21,9 +21,7 @@
 <p align="center">
   <a href="#download">Download</a>
   ·
-  <a href="#features">Features</a>
-  ·
-  <a href="#screenshots">Screenshots</a>
+  <a href="#highlights">Highlights</a>
   ·
   <a href="#updates">Updates</a>
   ·
@@ -33,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img width="1000" alt="Cola, the personal work agent in Cortex, answering in a conversation with its profile panel open" src="assets/screenshot-cola.png" />
+  <img width="1000" alt="Cortex desktop app" src="assets/screenshot-hero.png" />
 </p>
 
 ## About
@@ -54,39 +52,53 @@ Conversations, projects, and settings are stored locally on your Mac. Model requ
 
 The current release is Developer ID–signed and notarized by Apple. Office and creative editors, local speech models, and knowledge-search models download when needed or when you choose to install them; the app verifies each download against a pinned digest.
 
-## Features
+## Highlights
 
-- **Cola, your work double.** A personal agent that follows up on work within the scope you allow, reads across your projects and conversations, and comes back when there is progress or a decision to make.
-- **Permissions you choose.** Use **Ask for approval**, **Auto-approve**, or **Plan** for each conversation. These modes keep a confirmation step for irreversible commands. Optional **Full access**, enabled separately in Settings, relaxes those checks for attended desktop and CLI conversations only; it does not apply to Cola, bots, or unattended runs.
-- **Editable work.** Create documents, slide decks, and data dashboards in a conversation, then reopen and keep editing the same work from the sidebar. Select a passage to ask the agent to revise it, and export documents to Word, presentations to PowerPoint, and dashboards to HTML.
-- **Source-backed enterprise knowledge.** Search your knowledge bases, follow citations to the original documents, and have every source checked before it is shown.
-- **Meetings.** Record a meeting on your Mac, transcribe it locally, and get a summary with speaker labels that opens as an editable document. Ask questions about the meeting or list your to-dos.
-- **Creative canvas.** Built on a design engine: generation nodes are artboards on the canvas, any layer can be a reference, and every version stays inside its node. Produce images and video, and run a selected chain after previewing it.
-- **Computer use.** Let an agent operate apps on your Mac, with per-app permission prompts and one conversation in control at a time.
-- **Skills and MCP connectors.** Install a dependency once and every conversation can use it. When a connector fails to start, Cortex shows why.
-- **Interactive views.** Agents can answer with live charts, sliders, and demos that you can open beside the chat, adjust, and export as a web page.
-- **Bots for WeChat, Feishu / Lark, DingTalk, and Telegram.** Send tasks from your phone and get results back in the same chat. Scan a QR code to create a Feishu app, and choose how replies stream back.
-- **Automatic model routing and usage.** Route tasks to model groups and review local cost, run, and token statistics by day, group, and model. This shows usage, not your provider's subscription quota.
-- **Built for daily work.** A per-conversation terminal, cloud or local voice input with live transcription, subagents, and background tasks.
+### Cola, your personal agent
 
-## Screenshots
-
-Screenshots use fictional sample data.
+Cola is an agent that works alongside you. It follows up on work within the scope you allow, reads across your projects and conversations, and comes back when there is progress or a decision to make. Describe a routine in plain language, such as "every morning at 9, send me yesterday's progress," and Cola sets it up.
 
 <p align="center">
-  <img width="1000" alt="A slide deck open in the Work editor, with a bar chart and key figures" src="assets/screenshot-work.png" />
+  <img width="1000" alt="Cola answering in a conversation, with its profile panel showing routines, memory, and model usage" src="assets/screenshot-cola.png" />
 </p>
-<p align="center"><em>Work: documents, decks, and dashboards you can keep editing</em></p>
+
+### Creative canvas
+
+A design canvas built into the workspace. Generation nodes are artboards, any layer can be a reference, and every version stays inside its node. Ask the agent to design directly on the canvas: layers stay named and editable, and you can step in at any point.
 
 <p align="center">
-  <img width="1000" alt="An answer with numbered citations from selected knowledge documents" src="assets/screenshot-knowledge.png" />
+  <img width="1000" alt="A social post designed by the agent on the Creative canvas, with layers on the left and the agent conversation on the right" src="assets/screenshot-creative.png" />
 </p>
-<p align="center"><em>Knowledge: answers cite the documents they came from</em></p>
+
+### Model routing and cost
+
+In Auto mode, a lightweight classifier sends each task to the model group that fits: fast, balanced, or deep reasoning. The usage panel shows today's tokens and known cost, a seven-day trend, and how runs split across groups and models. Costs are calculated on your Mac from your own runs. Runs without a known price are marked as unpriced, not counted as zero, and the panel shows usage rather than your provider's subscription quota.
 
 <p align="center">
-  <img width="1000" alt="A meeting summary with key takeaways and topic columns" src="assets/screenshot-meetings.png" />
+  <img width="420" alt="The usage panel: today's tokens and cost by provider and model, a seven-day cost trend, and run share by model group" src="assets/screenshot-routing.png" />
 </p>
-<p align="center"><em>Meetings: record, transcribe, and summarize</em></p>
+
+### Computer history and daily summaries
+
+Optionally, Cortex keeps a local record of which apps you used and, every 10 minutes, a short summary of what you were doing. The overview shows your time at the computer, your longest focus, a day rhythm by category, and a plain-language timeline. A daily report is drafted at the time you choose.
+
+It is off by default and available on macOS. You can pause it, exclude apps, or clear it at any time. Summaries are written by the model you choose.
+
+<p align="center">
+  <img width="1000" alt="The computer history overview: time at the computer, longest focus, a day rhythm grid by category, and a timeline of what you did" src="assets/screenshot-history.png" />
+</p>
+
+*Screenshots use fictional sample data.*
+
+### Also in Cortex
+
+- **Permissions you choose.** Use **Ask for approval**, **Auto-approve**, or **Plan** for each conversation. These modes keep a confirmation step for irreversible commands. Optional **Full access**, enabled separately in Settings, relaxes those checks for attended desktop and CLI conversations only.
+- **Editable work.** Create documents, slide decks, and data dashboards in a conversation, keep editing them from the sidebar, and export to Word, PowerPoint, or HTML.
+- **Source-backed knowledge.** Search your knowledge bases and follow citations to the original documents.
+- **Meetings.** Record, transcribe locally, and get a summary with speaker labels.
+- **Computer use.** Let an agent operate apps on your Mac, with per-app permission prompts.
+- **Skills and MCP connectors.** Install a dependency once and every conversation can use it.
+- **Bots for WeChat, Feishu / Lark, DingTalk, and Telegram.** Send tasks from your phone and get results back in the same chat.
 
 ## Updates
 
