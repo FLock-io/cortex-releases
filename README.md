@@ -6,7 +6,7 @@
 
 **Beyond a general AI workspace.**
 
-A local-first AI workspace for your models, files, knowledge, and creative work. Built by [FLock.io](https://www.flock.io/).
+[**Cortex by FLock.io**](https://cortex.flock.io/) is a free, local-first desktop AI agent workspace for macOS, Windows, and Linux — built for your models, files, knowledge, and creative work by [FLock.io](https://www.flock.io/).
 
 English · [简体中文](README.zh-CN.md)
 

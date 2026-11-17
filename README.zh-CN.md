@@ -6,7 +6,7 @@
 
 **不止于通用 AI 工作台。**
 
-本地优先的 AI 工作台，让模型、文件、知识与创作汇聚在一起。由 [FLock.io](https://www.flock.io/) 打造。
+[**Cortex by FLock.io**](https://cortex.flock.io/) 是由 [FLock.io](https://www.flock.io/) 打造的免费本地优先桌面 AI 智能体工作台（支持 macOS、Windows 与 Linux），让你的模型、文件、知识与创作汇聚在一起。
 
 [English](README.md) · 简体中文
 
