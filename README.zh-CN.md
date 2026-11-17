@@ -10,6 +10,10 @@
 
 [English](README.md) · 简体中文
 
+[![Release](https://img.shields.io/github/v/release/FLock-io/cortex-releases?label=release&color=137E96)](https://github.com/FLock-io/cortex-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/FLock-io/cortex-releases/total?color=1f9d55)](https://github.com/FLock-io/cortex-releases/releases)
+[![Stars](https://img.shields.io/github/stars/FLock-io/cortex-releases?style=flat&color=f59e0b)](https://github.com/FLock-io/cortex-releases/stargazers)
+
 [官网](https://cortex.flock.io/) · [帮助文档](https://cortex.flock.io/docs/) · [下载安装](#下载安装) · [更新日志](https://github.com/FLock-io/cortex-releases/releases) · [问题反馈](https://github.com/FLock-io/cortex-releases/issues)
 
 <img src="assets/screenshot-hero.png" alt="Cortex 桌面工作台" width="1000" />

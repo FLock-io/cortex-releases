@@ -10,6 +10,10 @@ A local-first AI workspace for your models, files, knowledge, and creative work.
 
 English · [简体中文](README.zh-CN.md)
 
+[![Release](https://img.shields.io/github/v/release/FLock-io/cortex-releases?label=release&color=137E96)](https://github.com/FLock-io/cortex-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/FLock-io/cortex-releases/total?color=1f9d55)](https://github.com/FLock-io/cortex-releases/releases)
+[![Stars](https://img.shields.io/github/stars/FLock-io/cortex-releases?style=flat&color=f59e0b)](https://github.com/FLock-io/cortex-releases/stargazers)
+
 [Website](https://cortex.flock.io/) · [Documentation](https://cortex.flock.io/docs/) · [Downloads](#download) · [Release notes](https://github.com/FLock-io/cortex-releases/releases) · [Feedback](https://github.com/FLock-io/cortex-releases/issues)
 
 <img src="assets/screenshot-hero.png" alt="Cortex desktop workspace" width="1000" />
